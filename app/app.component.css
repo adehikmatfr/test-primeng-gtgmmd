@@ -1,0 +1,22 @@
+p {
+  font-family: Lato;
+}
+
+.tooltip {
+  background-color: lightgray;
+  border-radius: 5px;
+}
+
+.ui-tooltip-text {
+  font-family: Verdana;
+  color: black;
+}
+
+.dropdown-ctn {
+  min-width: 400px !important;
+}
+
+.dropdown {
+  width: 100% !important;
+}
+

@@ -1,0 +1,6 @@
+{
+  "apps": [{
+    "styles": ["styles.css", "contextMenu.min.css"],
+    "scripts": ["contextMenu.min.js"]
+  }]
+}

@@ -1,0 +1,10 @@
+<p-autoComplete #searchInput
+    minLength="1"
+    scrollHeight="350px"
+    field="display"
+    [(ngModel)]="selectedItem"
+    [suggestions]="acResults" 
+    (onSelect)="onSelect($event)"
+    (completeMethod)="onAutoCompleteSearch($event)">
+</p-autoComplete>
+
